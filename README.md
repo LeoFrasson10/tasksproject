@@ -41,7 +41,8 @@
   ```php
   php artisan migrate
   ```
-
+- Ou importe o banco de dados, arquivo na raiz do projeto `tasks.sql`;
+- 
 - Se tudo der certo, é só executar o servidor:
   ```php
   php artisan serve
